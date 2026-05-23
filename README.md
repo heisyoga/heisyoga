@@ -75,14 +75,6 @@ While my featured projects are still being prepared, I am currently focusing on:
 
 ---
 
-## Development Workflow
-
-```txt
-Idea → Planning → Draw it from scratch! → UI/UX Design → Database Design → Coding → Testing → Deployment → Documentation
-```
-
----
-
 <div align="center">
 Thanks for visiting my profile.
 </div>
