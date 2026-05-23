@@ -18,7 +18,7 @@ I am an Informatics college with a strong interest in web application developmen
 - Currently learning **AI Integration, Laravel 13, Clean Architecture Project, REST API, and Database Design**
 - Interested in **Web Development, Backend Development, UI/UX, and AI**
 - Focused on writing clean, maintainable, and well-documented code
-- Closed to collaboration, internship opportunities, and project-based learning
+- Open to collaboration, internship opportunities, and project-based learning
 - Goal: becoming a skilled developer who can build useful and scalable applications
 
 ---
