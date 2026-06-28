@@ -1,4 +1,4 @@
-# Hi there, I'm Yoga 👋
+# Hello world, I'm Yoga! 👋🏻
 
 ```ts
 while (alive) {
@@ -10,13 +10,9 @@ while (alive) {
 }
 ```
 
-> *"If there's a real problem, I'll probably build software for it.*
-> *If there's a free API, I'll automate it.*
-> *If there's a competition, count me in."*
-
 ---
 
-## 🚀 About Me
+## ✦ About Me
 
 I'm a university student who spends an unhealthy amount of time scrolling the internet looking for things worth building.
 
@@ -43,7 +39,7 @@ Some random facts about me:
 
 ---
 
-# 🛠 Tech Stack
+# </> Tech Stack
 
 ## Languages
 
@@ -106,7 +102,7 @@ Some random facts about me:
 
 ---
 
-# 💻 Current Interests
+# ❤︎ Current Interests
 
 ```text
 ██████████░░░░░  Next.js
@@ -115,12 +111,12 @@ Some random facts about me:
 ███████░░░░░░░░  AI / ML
 ██████░░░░░░░░░  Backend Architecture
 █████░░░░░░░░░░  Automation
-████░░░░░░░░░░░  Robotics
+██░░░░░░░░░░░░░  Robotics
 ```
 
 ---
 
-# 📂 Featured Projects
+# ᯓ★ Featured Projects
 
 > Currently...
 >
@@ -134,7 +130,7 @@ I'm my own harshest code reviewer.
 
 ---
 
-# 📈 Development Philosophy
+# (ᵕ•_•) Development Philosophy
 
 ```text
 Think
@@ -154,7 +150,7 @@ Rebuild Better
 
 ---
 
-# 🤖 AI
+# ❋ AI
 
 I don't use AI to avoid programming.
 
