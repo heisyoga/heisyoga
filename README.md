@@ -71,7 +71,7 @@ I primarily work as a **Full Stack Web Developer** using **Next.js + TypeScript*
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,go,cpp,php,nextjs,react,tailwind,bootstrap,vite,nodejs,express,mysql,supabase,firebase,redis,docker,git,vercel,ubuntu,aws,gcp"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,cpp,php,nextjs,react,tailwind,bootstrap,vite,nodejs,express,mysql,supabase,firebase,redis,docker,git,vercel,ubuntu,apple,windows,aws,gcp"/>
 
 </p>
 
