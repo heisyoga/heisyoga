@@ -1,6 +1,5 @@
-<div align="center">
 
-  <!-- HEADER: Adaptive Apple Event / Keynote Style -->
+<div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -13,10 +12,7 @@
     <img
       src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:ffffff,100:f5f5f7&text=Hello.%20I'm%20Yoga.&fontColor=1d1d1f&fontSize=50&fontAlignY=55&desc=Software%20Engineer.%20Designed%20for%20scalability.&descColor=6e6e73&descSize=18&descAlignY=78"
       width="100%"
-      alt="Hello. I'm Yoga. Software Engineer."
+      alt="Hello. I'm Yoga."
     />
   </picture>
-
-  <br/>
-
 </div>
